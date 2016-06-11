@@ -30,6 +30,10 @@ public class ValidMethodTag extends TagSupport {
 		this.type = type;
 	}
 
+	public void testGit(){
+		System.out.println("this is github test!");
+	}
+	
 	public int doStartTag() throws JspException {
 		try {
 			HttpServletRequest request = (HttpServletRequest) pageContext

@@ -1,0 +1,10 @@
+/.svn/
+/com/
+/config.properties
+/log4j.properties
+/poolman.xml
+/soaUrl.properties
+/spring-hibernate.xml
+/spring.xml
+/struts.xml
+/system.properties
