@@ -1,0 +1,77 @@
+{
+	"total" : 1000,
+	"rows" : [{
+				"applyid" : 1,
+				"applyCode" : "SQ0001",
+				"exchangeNos" : "X0001,X0002,X0003,X0004",
+				"supplier" : "BSP",
+				"createDate" : "2014-10-09",
+				"deadline" : "2014-10-11",
+				"paymentAmount" : 9000.00,
+				"status" : 0,
+				"remark" : "7811032154698",
+				"supplierAccount" : "6222 0210 0109 0005 916",
+				"currencyUnit" : "CNY"
+			}, {
+				"applyid" : 2,
+				"applyCode" : "SQ0002",
+				"exchangeNos" : "X0006,X0007,X0008,X0009",
+				"supplier" : "BSP",
+				"createDate" : "2014-10-09",
+				"deadline" : "2014-10-11",
+				"paymentAmount" : 9870.00,
+				"status" : 1,
+				"remark" : "7811032154698",
+				"supplierAccount" : "6222 0210 0109 0005 916",
+				"currencyUnit" : "CNY"
+			}, {
+				"applyid" : 3,
+				"applyCode" : "SQ0003",
+				"exchangeNos" : "X0016,X0017,X0018,X0019",
+				"supplier" : "BSP",
+				"createDate" : "2014-10-09",
+				"deadline" : "2014-10-11",
+				"paymentAmount" : 98170.00,
+				"status" : 3,
+				"remark" : "7811032154698",
+				"supplierAccount" : "6222 0210 0109 0005 916",
+				"currencyUnit" : "CNY"
+			}, {
+				"applyid" : 4,
+				"applyCode" : "SQ0004",
+				"exchangeNos" : "X0046,X0047,X0048,X0049",
+				"supplier" : "BSP",
+				"createDate" : "2014-10-09",
+				"deadline" : "2014-10-11",
+				"paymentAmount" : 987220.00,
+				"status" : 4,
+				"remark" : "7811032154698",
+				"supplierAccount" : "6222 0210 0109 0005 916",
+				"currencyUnit" : "CNY"
+			}, {
+				"applyid" : 5,
+				"applyCode" : "SQ0005",
+				"exchangeNos" : "X00062,X00072,X00082,X00092",
+				"supplier" : "BSP",
+				"createDate" : "2014-10-09",
+				"deadline" : "2014-10-11",
+				"paymentAmount" : 982270.00,
+				"status" : 2,
+				"remark" : "7811032154698",
+				"supplierAccount" : "6222 0210 0109 0005 916",
+				"currencyUnit" : "CNY"
+			}],
+	"footer" : [{
+				"id" : 0,
+				"deadline" : "小计：",
+				"paymentAmount" : -9000.00,
+				"balance" : -9000.00,
+				"currencyUnit" : "CNY"
+			}, {
+				"id" : 0,
+				"deadline" : "总计：",
+				"paymentAmount" : -9000.00,
+				"balance" : -9000.00,
+				"currencyUnit" : "CNY"
+			}]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poolman>
+	<management-mode>local</management-mode>
+	<datasource>
+		<dbname>cs</dbname>
+		<jndiName>cs</jndiName>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://192.168.1.121:3306/clearing?useUnicode=true&amp;characterEncoding=utf8
+		</url>
+		<username>root</username>
+		<password>123</password>
+		<minimumSize>0</minimumSize>
+		<maximumSize>10</maximumSize>
+		<logFile>log/mysql.log</logFile>
+	</datasource>
+</poolman>

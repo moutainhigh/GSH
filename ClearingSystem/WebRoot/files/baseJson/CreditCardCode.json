@@ -1,0 +1,47 @@
+[
+{
+"id" : "DCC",
+"code" : "DCC",
+"text" : "国内信用卡"
+}, 
+{
+"id" : "OTH",
+"code" : "OTH",
+"text" : "其它信用卡"
+},
+{
+"id" : "AX",
+"code" : "AMERICAN EXPRESS",
+"text" : "美国运通卡"
+},
+{
+"id" : "CA",
+"code" : "MASTER CARD",
+"text" : "万事达卡"
+},
+{
+"id" : "DC",
+"code" : "DINERS CLUB AMER TORCH CLUB SUN DINERS",
+"text" : "大莱卡"
+},
+{
+"id" : "VI",
+"code" : "VISA",
+"text" : "维萨卡"
+},
+{
+"id" : "YJ",
+"code" : "YES JTB",
+"text" : "JTB卡"
+},
+{
+"id" : "ER",
+"code" : "AIR CANADA ENROUTE",
+"text" : "加拿大航空航路"
+},
+{
+"id" : "AP",
+"code" : "AIR PLUS CARD",
+"text" : "国航嘉惠"
+}
+]

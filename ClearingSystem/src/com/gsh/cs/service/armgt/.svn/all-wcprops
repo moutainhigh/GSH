@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/gsh/!svn/ver/9249/GSH3.0/ClearingSystem/src/com/gsh/cs/service/armgt
+END
+ReceivableServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/gsh/!svn/ver/9245/GSH3.0/ClearingSystem/src/com/gsh/cs/service/armgt/ReceivableServiceI.java
+END
+DeadlineChgServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/gsh/!svn/ver/5468/GSH3.0/ClearingSystem/src/com/gsh/cs/service/armgt/DeadlineChgServiceI.java
+END
+CustomerPaymentServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/gsh/!svn/ver/9273/GSH3.0/ClearingSystem/src/com/gsh/cs/service/armgt/CustomerPaymentServiceI.java
+END
+ReceivableViewServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/gsh/!svn/ver/9229/GSH3.0/ClearingSystem/src/com/gsh/cs/service/armgt/ReceivableViewServiceI.java
+END
+receivableRemindServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/gsh/!svn/ver/8850/GSH3.0/ClearingSystem/src/com/gsh/cs/service/armgt/receivableRemindServiceI.java
+END

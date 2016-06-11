@@ -1,0 +1,43 @@
+10
+
+dir
+9270
+http://192.168.1.145:8080/svn/gsh/GSH3.0/ClearingSystem/WebRoot/files
+http://192.168.1.145:8080/svn/gsh
+
+
+
+2015-07-06T02:28:44.812141Z
+9229
+csy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0a5589cb-4e81-f44b-b192-fb173c718675
+
+baseJson
+dir
+
+css
+dir
+
+icon
+dir
+
+img
+dir
+
+js
+dir
+

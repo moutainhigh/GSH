@@ -1,0 +1,46 @@
+{
+		"total" : 10,
+		"rows" : [ {
+			"accountCode" : "BSPER",
+			"accountType" : "外部采购",
+			"accountName" : "XXXX公司",
+			"accountBalance" : "0.00",
+			"accountStatus" : "0"
+		}, {
+			"accountCode" : "TDDDD",
+			"accountType" : "内部客户",
+			"accountName" : "XXXX公司",
+			"accountBalance" : "0.00",
+			"accountStatus" : "1"
+		}, {
+			"accountCode" : "S0012",
+			"accountType" : "内部客户",
+			"accountName" : "XXXX公司",
+			"accountBalance" : "0.00",
+			"accountStatus" : "0"
+		}, {
+			"accountCode" : "23SDFD",
+			"accountType" : "外部采购",
+			"accountName" : "XXXX公司",
+			"accountBalance" : "0.00",
+			"accountStatus" : "0"
+		}, {
+			"accountCode" : "2332DS",
+			"accountType" : "内部客户",
+			"accountName" : "XXXX公司",
+			"accountBalance" : "0.00",
+			"accountStatus" : "1"
+		}, {
+			"accountCode" : "23DS",
+			"accountType" : "外部采购",
+			"accountName" : "XXXX公司",
+			"accountBalance" : "0.00",
+			"accountStatus" : "1"
+		}, {
+			"accountCode" : "DSFDS",
+			"accountType" : "虚拟采购",
+			"accountName" : "XXXX公司",
+			"accountBalance" : "1213213.00",
+			"accountStatus" : "1"
+		} ]
+	}

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gsh/!svn/ver/9250/GSH3.0/ClearingSystem/src/com/gsh/cs/service/apmgt/impl
+END
+WaitPaymentRemindSearchImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/gsh/!svn/ver/9187/GSH3.0/ClearingSystem/src/com/gsh/cs/service/apmgt/impl/WaitPaymentRemindSearchImpl.java
+END
+PayableViewServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/gsh/!svn/ver/9187/GSH3.0/ClearingSystem/src/com/gsh/cs/service/apmgt/impl/PayableViewServiceImpl.java
+END
+ApplyPaymentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/gsh/!svn/ver/9146/GSH3.0/ClearingSystem/src/com/gsh/cs/service/apmgt/impl/ApplyPaymentServiceImpl.java
+END
+PaymentBudgetServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/gsh/!svn/ver/6249/GSH3.0/ClearingSystem/src/com/gsh/cs/service/apmgt/impl/PaymentBudgetServiceImpl.java
+END
+WaitPaymentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/gsh/!svn/ver/9250/GSH3.0/ClearingSystem/src/com/gsh/cs/service/apmgt/impl/WaitPaymentServiceImpl.java
+END

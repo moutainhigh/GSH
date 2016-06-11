@@ -1,0 +1,45 @@
+{
+	"total" : 1000,
+	"rows" : [{
+			"toaccountId" : "1",
+			"toaccountDate" : "2014-05-11",
+			"fuKuanfang" : "上海XXXXX公司 C90111",
+			"toaccountMoney" : "9800.00",
+			"documentNumber" : "",
+			"recordedAccount" : "王五",
+			"state" : "0"
+		}, {
+			"toaccountId" : "2",
+			"toaccountDate" : "2014-05-12",
+			"fuKuanfang" : "张三",
+			"toaccountMoney" : "1500.00",
+			"documentNumber" : "",
+			"recordedAccount" : "李四",
+			"state" : "0"
+		}, {
+			"toaccountId" : "3",
+			"toaccountDate" : "2014-05-13",
+			"fuKuanfang" : "上海XXXXX公司",
+			"toaccountMoney" : "108000.00",
+			"documentNumber" : "",
+			"recordedAccount" : "李四",
+			"state" : "0"
+		}, {
+			"toaccountId" : "4",
+			"toaccountDate" : "2014-05-14",
+			"fuKuanfang" : "上海XXXXXxxxx旅行社 S90222",
+			"toaccountMoney" : "2300.00",
+			"documentNumber" : "12432",
+			"recordedAccount" : "张三",
+			"state" : "1"
+		}],
+		"footer":[{
+			"toaccountId" : "0",
+			"toaccountDate" : "",
+			"fuKuanfang" : "小计：",
+			"toaccountMoney" : "122300.00",
+			"documentNumber" : "",
+			"recordedAccount" : "",
+			"state" : ""
+			}]
+}

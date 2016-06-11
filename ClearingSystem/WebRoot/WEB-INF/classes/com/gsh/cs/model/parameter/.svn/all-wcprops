@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/gsh/!svn/ver/9182/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter
+END
+PayableViewPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/gsh/!svn/ver/5672/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/PayableViewPRMT.java
+END
+CreditCostPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gsh/!svn/ver/5445/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/CreditCostPRMT.java
+END
+AbnormalOrderPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/gsh/!svn/ver/6235/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/AbnormalOrderPRMT.java
+END
+PayablePRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/gsh/!svn/ver/9038/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/PayablePRMT.java
+END
+ReceivableViewPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/gsh/!svn/ver/9038/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/ReceivableViewPRMT.java
+END
+SalesInformationPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/gsh/!svn/ver/9038/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/SalesInformationPRMT.java
+END
+BaspTicketUsePRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/gsh/!svn/ver/8660/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/BaspTicketUsePRMT.java
+END
+AccountDetailPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/gsh/!svn/ver/9112/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/AccountDetailPRMT.java
+END
+CreditcardFeePRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/gsh/!svn/ver/5445/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/CreditcardFeePRMT.java
+END
+ReceivablePRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gsh/!svn/ver/9009/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/ReceivablePRMT.java
+END
+CommissionPaymentPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/gsh/!svn/ver/5591/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/CommissionPaymentPRMT.java
+END
+SupplierPaymentPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/gsh/!svn/ver/9272/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/SupplierPaymentPRMT.java
+END
+DetailedPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gsh/!svn/ver/9038/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/DetailedPRMT.java
+END
+AdvanceEntryPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/gsh/!svn/ver/5672/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/AdvanceEntryPRMT.java
+END
+CollectpayAccountPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/gsh/!svn/ver/9087/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/CollectpayAccountPRMT.java
+END
+DataPermissionP.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/gsh/!svn/ver/9087/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/DataPermissionP.java
+END
+AccountPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/gsh/!svn/ver/5445/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/AccountPRMT.java
+END
+SettlementExchangeRatePRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/gsh/!svn/ver/8788/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/SettlementExchangeRatePRMT.java
+END
+PaymentBudgetPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/gsh/!svn/ver/6239/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/PaymentBudgetPRMT.java
+END
+CommissionPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gsh/!svn/ver/9182/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/CommissionPRMT.java
+END
+BspTicketPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/gsh/!svn/ver/8989/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/BspTicketPRMT.java
+END
+CustomerPaymentPRMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/gsh/!svn/ver/9146/GSH3.0/ClearingSystem/src/com/gsh/cs/model/parameter/CustomerPaymentPRMT.java
+END

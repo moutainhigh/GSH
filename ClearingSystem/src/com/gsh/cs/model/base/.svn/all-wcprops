@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gsh/!svn/ver/9150/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base
+END
+AdvanceEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gsh/!svn/ver/5509/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/AdvanceEntry.java
+END
+CollectpayAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gsh/!svn/ver/9087/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/CollectpayAccount.java
+END
+ReceivableDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/gsh/!svn/ver/5342/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/ReceivableDetail.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gsh/!svn/ver/9106/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/Account.java
+END
+SettlementExchangeRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/gsh/!svn/ver/8788/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/SettlementExchangeRate.java
+END
+LogAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/gsh/!svn/ver/8867/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/LogAppender.java
+END
+PaymentBudget.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gsh/!svn/ver/6239/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/PaymentBudget.java
+END
+Commission.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gsh/!svn/ver/5445/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/Commission.java
+END
+BspTicket.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/gsh/!svn/ver/8989/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/BspTicket.java
+END
+DeadlineChg.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/gsh/!svn/ver/5468/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/DeadlineChg.java
+END
+CustomerPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/gsh/!svn/ver/9150/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/CustomerPayment.java
+END
+PayableView.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/gsh/!svn/ver/5672/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/PayableView.java
+END
+CreditCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gsh/!svn/ver/5909/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/CreditCost.java
+END
+AbnormalOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gsh/!svn/ver/8297/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/AbnormalOrder.java
+END
+Payable.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gsh/!svn/ver/9038/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/Payable.java
+END
+ReceivableView.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/gsh/!svn/ver/5573/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/ReceivableView.java
+END
+SalesInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/gsh/!svn/ver/9038/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/SalesInformation.java
+END
+BaspTicketUse.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gsh/!svn/ver/8660/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/BaspTicketUse.java
+END
+AccountDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gsh/!svn/ver/9112/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/AccountDetail.java
+END
+CreditcardFee.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gsh/!svn/ver/5445/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/CreditcardFee.java
+END
+Receivable.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gsh/!svn/ver/9009/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/Receivable.java
+END
+CommissionDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/gsh/!svn/ver/5342/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/CommissionDetail.java
+END
+CommissionPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gsh/!svn/ver/5591/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/CommissionPayment.java
+END
+SupplierPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/gsh/!svn/ver/9150/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/SupplierPayment.java
+END
+DataPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/gsh/!svn/ver/9087/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/DataPermission.java
+END
+CurrencyUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gsh/!svn/ver/5909/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/CurrencyUnit.java
+END
+PayableDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gsh/!svn/ver/5672/GSH3.0/ClearingSystem/src/com/gsh/cs/model/base/PayableDetail.java
+END

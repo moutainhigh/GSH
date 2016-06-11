@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gsh/!svn/ver/9251/GSH3.0/ClearingSystem/src/com/gsh/cs/service/bsp/impl
+END
+DataPermissionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/gsh/!svn/ver/9087/GSH3.0/ClearingSystem/src/com/gsh/cs/service/bsp/impl/DataPermissionServiceImpl.java
+END
+BspTicketServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/gsh/!svn/ver/9196/GSH3.0/ClearingSystem/src/com/gsh/cs/service/bsp/impl/BspTicketServiceImpl.java
+END
+BaspTicketUseServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/gsh/!svn/ver/9251/GSH3.0/ClearingSystem/src/com/gsh/cs/service/bsp/impl/BaspTicketUseServiceImpl.java
+END
+SalesInformationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/gsh/!svn/ver/9038/GSH3.0/ClearingSystem/src/com/gsh/cs/service/bsp/impl/SalesInformationServiceImpl.java
+END
+AdvanceEntryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/gsh/!svn/ver/5678/GSH3.0/ClearingSystem/src/com/gsh/cs/service/bsp/impl/AdvanceEntryServiceImpl.java
+END

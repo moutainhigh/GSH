@@ -1,0 +1,42 @@
+{
+	"total" : 1000,
+	"rows" : [{
+				"id" : 1,
+				"tradeWay" : 2,
+				"customerNo" : "COM000001",
+				"customerAccount" : "XJ2324324324",
+				"createDate" : "2014-09-08",
+				"receivable" : -9000.00,
+				"realityReceipt" : -9000.00,
+				"balance" : 0,
+				"tradeDate" : "2014-09-08",
+				"tradeNo" : "111111111111",
+				"tradeAccount" : "232323232",
+				"voucherNo" : "VN2323232",
+				"creditType" : "X000001",
+				"creditDate" : "2014-09-08",
+				"customerfactorage" : 90,
+				"factorage" : 45,
+				"handinger" : "tang",
+				"publication" : 1,
+				"settlement" : 0.5,
+				"creditStatus" : 0
+			}],
+	"footer" : [{
+				"id" : 0,
+				"customerNo" : "小计：",
+				"receivable" : -9000.00,
+				"realityReceipt" : -9000.00,
+				"balance" : 0,
+				"customerfactorage" : 90,
+				"factorage" : 45
+			}, {
+				"id" : 0,
+				"customerNo" : "总计：",
+				"receivable" : -9000.00,
+				"realityReceipt" : -9000.00,
+				"balance" : 0,
+				"customerfactorage" : 90,
+				"factorage" : 45
+			}]
+}

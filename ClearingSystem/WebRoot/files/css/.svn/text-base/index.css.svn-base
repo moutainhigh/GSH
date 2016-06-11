@@ -1,0 +1,179 @@
+.img-user {
+	border-radius: 50%;
+	border: 1px solid #fff;
+	padding: 2px;
+	animation-name: bounceIn;
+}
+
+.img-set {
+	border-radius: 50%;
+	border: 1px solid #ccc;
+	padding: 2px;
+	animation-name: bounceIn;
+}
+
+.user-img {
+	display: inline-block;
+	float: left;
+	height: 65px;
+	margin-right: 20px;
+	margin-top: 5px;
+	width: 65px;
+	box-sizing: border-box;
+}
+
+.user-info {
+	color: #fff;
+	display: inline-block;
+}
+
+.user-greet {
+	font-size: 18px;
+	font-weight: 600;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.user-name {
+	font-size: 19px;
+}
+
+.role-name {
+	font-size: 19px;
+	background-color: #5cb85c;
+	border-radius: 0.25em;
+	color: #fff;
+	display: inline;
+	font-size: 75%;
+	font-weight: bold;
+	line-height: 1;
+	padding: 0.2em 0.6em 0.3em;
+	text-align: center;
+	vertical-align: baseline;
+	white-space: nowrap;
+}
+
+.menu-bar {
+	width: 100%;
+	margin: 0 auto;
+	border: 0px;
+	color: #fff;
+	font-weight: bold;
+}
+
+.menu-bar a {
+	padding: 5px;
+	color: #fff;
+	text-decoration: none;
+}
+
+.menu-bar a {
+	display: block;
+	padding-left: 24px;
+	background: #303641;
+}
+
+.menu-bar a:hover {
+	background: #111111;
+	padding-left: 24px;
+}
+
+.tabs-header,.tabs-tool {
+	background-color: #0081c2;
+}
+
+.tabs li a.tabs-inner {
+	color: #fff;
+	font-weight: bold;
+}
+
+.tabs-tool {
+	border-style: solid;
+	border-width: 0px;
+	bottom: 0;
+	overflow: hidden;
+	padding: 1px;
+	position: absolute;
+}
+
+.home-button {
+	height: 41px;
+}
+
+.m-btn-downarrow,.s-btn-downarrow {
+	display: inline-block;
+	font-size: 1px;
+	height: 16px;
+	margin-top: -11px;
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 16px;
+}
+
+.accordion .accordion-header {
+	background: none repeat scroll 0 0 #1F232A;
+	filter: none;
+}
+
+.panel-header,.panel-body {
+	border-color: #1F232A;
+}
+
+.accordion .accordion-header-selected {
+	background: none repeat scroll 0 0 #0081c2;
+}
+
+.panel-title {
+	color: #fff;
+	font-size: 12px;
+	font-weight: bold;
+	height: 16px;
+	line-height: 16px;
+}
+
+.panel-icon,.panel-tool {
+	height: 16px;
+	margin-top: -8px;
+	overflow: hidden;
+	position: absolute;
+	top: 55%;
+}
+
+.panel-icon {
+	left: 25px;
+	width: 16px;
+}
+
+.panel-with-icon {
+	padding-left: 53px;
+}
+
+.tabs-icon {
+	height: 16px;
+	left: 10px;
+	margin-top: -8px;
+	position: absolute;
+	top: 51%;
+	width: 16px;
+}
+
+.menu-icon {
+	height: 16px;
+	left: 2px;
+	margin-top: -8px;
+	position: absolute;
+	top: 59%;
+	width: 16px;
+}
+
+.menu-item-body {
+	background: #303641;
+}
+
+.index-tab-body {
+	overflow: hidden;
+}
+
+.tabs li a.tabs-close {
+	background: url("img/tabs_icons.png") no-repeat scroll -34px center rgba(0, 0, 0, 0);
+}

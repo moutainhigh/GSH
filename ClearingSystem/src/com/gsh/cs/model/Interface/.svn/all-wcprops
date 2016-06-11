@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/gsh/!svn/ver/9229/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface
+END
+RouteProducts.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/gsh/!svn/ver/9182/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/RouteProducts.java
+END
+XiaoZhang.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/gsh/!svn/ver/5909/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/XiaoZhang.java
+END
+PayableView.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/gsh/!svn/ver/9038/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/PayableView.java
+END
+BudgetOrderP.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gsh/!svn/ver/8850/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/BudgetOrderP.java
+END
+GshSupplierList.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/gsh/!svn/ver/5744/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/GshSupplierList.java
+END
+GshSupplierAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/gsh/!svn/ver/5744/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/GshSupplierAccount.java
+END
+SalesmanArrearsReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/gsh/!svn/ver/8451/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/SalesmanArrearsReport.java
+END
+CustomersOntheBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/gsh/!svn/ver/8451/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/CustomersOntheBill.java
+END
+RouteProductsP.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gsh/!svn/ver/9229/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/RouteProductsP.java
+END
+CloudCompanyDeptP.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/gsh/!svn/ver/8848/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/CloudCompanyDeptP.java
+END
+AccountsReceivable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/gsh/!svn/ver/8544/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/AccountsReceivable.java
+END
+CreateByHand.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gsh/!svn/ver/9038/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/CreateByHand.java
+END
+ReceivableView.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gsh/!svn/ver/9038/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/ReceivableView.java
+END
+SupplierReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gsh/!svn/ver/8851/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/SupplierReport.java
+END
+ReceivableCustmerPaymentView.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/gsh/!svn/ver/9229/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/ReceivableCustmerPaymentView.java
+END
+TicketsShiyong.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gsh/!svn/ver/8663/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/TicketsShiyong.java
+END
+AccountsPayable.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/gsh/!svn/ver/8544/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/AccountsPayable.java
+END
+BaseJsonResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/gsh/!svn/ver/5744/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/BaseJsonResponse.java
+END
+PortalCompanyUsersP.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/gsh/!svn/ver/5909/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/PortalCompanyUsersP.java
+END
+ticketInfoP.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/gsh/!svn/ver/8508/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/ticketInfoP.java
+END
+CustomerProfilesInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/gsh/!svn/ver/9073/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/CustomerProfilesInfo.java
+END
+Confirmation.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gsh/!svn/ver/8544/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/Confirmation.java
+END
+OrderGuishu.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/gsh/!svn/ver/5971/GSH3.0/ClearingSystem/src/com/gsh/cs/model/Interface/OrderGuishu.java
+END

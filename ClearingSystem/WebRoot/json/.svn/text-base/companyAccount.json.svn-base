@@ -1,0 +1,46 @@
+{
+		"total" : 10,
+		"rows" : [ {
+			"accountCode" : "C000001",
+			"accountType" : "企业客户",
+			"accountName" : "XXXX公司",
+			"accountBalance" : "0.00",
+			"accountStatus" : "0"
+		}, {
+			"accountCode" : "C000002",
+			"accountType" : "内部客户",
+			"accountName" : "XXXX公司",
+			"accountBalance" : "0.00",
+			"accountStatus" : "1"
+		}, {
+			"accountCode" : "C000003",
+			"accountType" : "内部客户",
+			"accountName" : "XXXX公司",
+			"accountBalance" : "0.00",
+			"accountStatus" : "0"
+		}, {
+			"accountCode" : "C000004",
+			"accountType" : "企业客户",
+			"accountName" : "XXXX公司",
+			"accountBalance" : "0.00",
+			"accountStatus" : "0"
+		}, {
+			"accountCode" : "C000005",
+			"accountType" : "内部客户",
+			"accountName" : "XXXX公司",
+			"accountBalance" : "0.00",
+			"accountStatus" : "1"
+		}, {
+			"accountCode" : "C000006",
+			"accountType" : "企业客户",
+			"accountName" : "XXXX公司",
+			"accountBalance" : "0.00",
+			"accountStatus" : "1"
+		}, {
+			"accountCode" : "C000007",
+			"accountType" : "内部业客户",
+			"accountName" : "XXXX公司",
+			"accountBalance" : "1213213.00",
+			"accountStatus" : "1"
+		} ]
+	}

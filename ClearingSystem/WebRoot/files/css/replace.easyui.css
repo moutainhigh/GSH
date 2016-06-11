@@ -1,0 +1,32 @@
+.validatebox-invalid {
+	background-color: #fff3f3;
+	background-image: url("img/validatebox_warning.png");
+	background-position: right center;
+	background-repeat: no-repeat;
+	border-color: #ffa8a8;
+	color: #000;
+}
+
+.accordion-collapse {
+	background: url("img/accordion_arrows.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.accordion-expand {
+	background: url("img/accordion_arrows2.png") no-repeat scroll -16px 0 rgba(0, 0, 0, 0);
+}
+
+.l-btn-icon {
+	display: inline-block;
+	font-size: 1px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -8px;
+	position: absolute;
+	top: 50%;
+	width: 16px;
+}
+
+.datagrid-cell,.datagrid-cell-group,.datagrid-header-rownumber,.datagrid-cell-rownumber {
+	-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+}

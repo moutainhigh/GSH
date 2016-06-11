@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/gsh/!svn/ver/9187/GSH3.0/ClearingSystem/WebRoot/page/ap-mgt
+END
+applyPayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gsh/!svn/ver/9047/GSH3.0/ClearingSystem/WebRoot/page/ap-mgt/applyPayment.jsp
+END
+paymentBudget.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/gsh/!svn/ver/8991/GSH3.0/ClearingSystem/WebRoot/page/ap-mgt/paymentBudget.jsp
+END
+Noentry.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gsh/!svn/ver/9056/GSH3.0/ClearingSystem/WebRoot/page/ap-mgt/Noentry.jsp
+END
+waitPayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gsh/!svn/ver/9187/GSH3.0/ClearingSystem/WebRoot/page/ap-mgt/waitPayment.jsp
+END
+advance.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gsh/!svn/ver/9056/GSH3.0/ClearingSystem/WebRoot/page/ap-mgt/advance.jsp
+END
+paymentDetailed.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/gsh/!svn/ver/9047/GSH3.0/ClearingSystem/WebRoot/page/ap-mgt/paymentDetailed.jsp
+END
+waitPaymentRemind.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gsh/!svn/ver/6076/GSH3.0/ClearingSystem/WebRoot/page/ap-mgt/waitPaymentRemind.jsp
+END

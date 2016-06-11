@@ -1,0 +1,52 @@
+{
+	"total" : 10,
+	"rows" : [{
+				"accountCode" : "C00000001",
+				"accountType" : "C",
+				"accountCurrency" : "RMB",
+				"accountOwner" : "戈思汉科技公司",
+				"accountBank" : "工商银行",
+				"accountNumber" : "6222 0210 1090 1156 654",
+				"accountBalance" : 50000000.00,
+				"accountStatus" : 0,
+				"accountReminder" : "",
+				"defaultIncAccount" : 1,
+				"defaultPayAccount" : 0
+			}, {
+				"accountCode" : "C00000002",
+				"accountType" : "C",
+				"accountCurrency" : "RMB",
+				"accountOwner" : "戈思汉科技公司",
+				"accountBank" : "建设银行",
+				"accountNumber" : "4222 0210 1090 1156 654",
+				"accountBalance" : 10000000.00,
+				"accountStatus" : 1,
+				"accountReminder" : "",
+				"defaultIncAccount" : 1,
+				"defaultPayAccount" : 0
+			}, {
+				"accountCode" : "P00000001",
+				"accountType" : "P",
+				"accountCurrency" : "RMB",
+				"accountOwner" : "李子春",
+				"accountBank" : "工商银行",
+				"accountNumber" : "6222 0210 1090 1156 656",
+				"accountBalance" : 50000000,
+				"accountStatus" : 2,
+				"accountReminder" : "",
+				"defaultIncAccount" : 1,
+				"defaultPayAccount" : 0
+			}, {
+				"accountCode" : "X00000001",
+				"accountType" : "X",
+				"accountCurrency" : "RMB",
+				"accountOwner" : "李子春",
+				"accountBank" : "工商银行",
+				"accountNumber" : "7222 0210 1090 1156 654",
+				"accountBalance" : 50000000,
+				"accountStatus" : 3,
+				"accountReminder" : "",
+				"defaultIncAccount" : 1,
+				"defaultPayAccount" : 0
+			}]
+}

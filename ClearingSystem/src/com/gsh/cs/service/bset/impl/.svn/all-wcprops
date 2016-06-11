@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gsh/!svn/ver/9182/GSH3.0/ClearingSystem/src/com/gsh/cs/service/bset/impl
+END
+SettlementExchangeRateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/gsh/!svn/ver/9182/GSH3.0/ClearingSystem/src/com/gsh/cs/service/bset/impl/SettlementExchangeRateServiceImpl.java
+END
+AccountServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/gsh/!svn/ver/9182/GSH3.0/ClearingSystem/src/com/gsh/cs/service/bset/impl/AccountServiceImpl.java
+END
+CreditcardfeeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/gsh/!svn/ver/9112/GSH3.0/ClearingSystem/src/com/gsh/cs/service/bset/impl/CreditcardfeeServiceImpl.java
+END
+CollectpayaccountServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/gsh/!svn/ver/9146/GSH3.0/ClearingSystem/src/com/gsh/cs/service/bset/impl/CollectpayaccountServiceImpl.java
+END

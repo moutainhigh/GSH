@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/gsh/!svn/ver/9229/GSH3.0/ClearingSystem/WebRoot/page/ar-mgt/receivable
+END
+deadline.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gsh/!svn/ver/5468/GSH3.0/ClearingSystem/WebRoot/page/ar-mgt/receivable/deadline.jsp
+END
+search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gsh/!svn/ver/6185/GSH3.0/ClearingSystem/WebRoot/page/ar-mgt/receivable/search.jsp
+END
+notice.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gsh/!svn/ver/8287/GSH3.0/ClearingSystem/WebRoot/page/ar-mgt/receivable/notice.jsp
+END
+receTx.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gsh/!svn/ver/6185/GSH3.0/ClearingSystem/WebRoot/page/ar-mgt/receivable/receTx.jsp
+END
+email.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/gsh/!svn/ver/8287/GSH3.0/ClearingSystem/WebRoot/page/ar-mgt/receivable/email.jsp
+END
+apply.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/gsh/!svn/ver/9184/GSH3.0/ClearingSystem/WebRoot/page/ar-mgt/receivable/apply.jsp
+END
+writeoff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gsh/!svn/ver/9229/GSH3.0/ClearingSystem/WebRoot/page/ar-mgt/receivable/writeoff.jsp
+END
+add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gsh/!svn/ver/8242/GSH3.0/ClearingSystem/WebRoot/page/ar-mgt/receivable/add.jsp
+END
+deadlineInput.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gsh/!svn/ver/5013/GSH3.0/ClearingSystem/WebRoot/page/ar-mgt/receivable/deadlineInput.jsp
+END
+refund-writeoff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gsh/!svn/ver/9184/GSH3.0/ClearingSystem/WebRoot/page/ar-mgt/receivable/refund-writeoff.jsp
+END
